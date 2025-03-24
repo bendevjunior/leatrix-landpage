@@ -45,7 +45,7 @@ Suas listas podem ser compartilhadas com outros usuários **somente se você per
 
 ## ❌ **5. Exclusão de Dados**  
 
-Você pode solicitar a exclusão de sua conta e dados a qualquer momento. Para isso, entre em contato pelo e-mail **[privacidade@leatrix.com](mailto:privacidade@leatrix.com)**.  
+Você pode solicitar a exclusão de sua conta e dados a qualquer momento. Para isso, entre em contato pelo e-mail **[bendevoficial@gmail.com](mailto:bendevoficial@gmail.com)**.  
 
 ---
 
@@ -59,7 +59,7 @@ O Leatrix usa serviços como **Google Firebase** para autenticação e armazenam
 ## 📧 **7. Contato**  
 
 Se tiver dúvidas sobre esta política, entre em contato:  
-📩 **[privacidade@leatrix.com](mailto:bendevoficial@gmail.com)**  
+📩 **[bendevoficial@gmail.com](mailto:bendevoficial@gmail.com)**  
 
 ---
 

@@ -37,7 +37,7 @@ Com o **Leatrix**, você nunca mais esquecerá um item no supermercado. Crie, ed
 
 ## 🔒 **Política de Privacidade**  
 
-Respeitamos sua privacidade! Para mais informações, consulte nossa **[Política de Privacidade](https://seulink.com/politica-de-privacidade)**.  
+Respeitamos sua privacidade! Para mais informações, consulte nossa **[Política de Privacidade](/politica-de-privacidade)**.  
 
 📧 **Dúvidas ou sugestões?** Entre em contato: [contato@leatrix.com](mailto:contato@leatrix.com)  
 
